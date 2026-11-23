@@ -1,12 +1,12 @@
 # Israel Wallner
 
-**Engenheiro de Produção (UTFPR) · Analista de Projetos e Processos · Londrina-PR**
+**Engenheiro de Produção (UTFPR, formatura em dez/2026) · Analista de Projetos e Processos · Londrina-PR**
 
 Transformo rotina manual em processo automático, usando Python e inteligência artificial no dia a dia de uma indústria de comunicação visual.
 
 ## O que já automatizei
 
-**Robôs de relatórios.** Abrem o ERP (Command Perfect), geram mais de 10 relatórios do financeiro e da contabilidade em PDF e salvam na rede, sem ninguém clicar. Antes eram feitos à mão: de 40 minutos a 1 hora por dia.
+**14 robôs em Python (RPA).** Integrados ao ERP (Command Perfect), geram mais de 10 relatórios do financeiro e da contabilidade em PDF e salvam na rede, sem ninguém clicar (antes eram feitos à mão: de 40 minutos a 1 hora por dia). Também automatizam lançamentos no ERP, como a cópia de dados para as ordens de produção (testada em 111 ordens de uma vez, sem erros) e o fechamento diário do caixa (20 segundos).
 
 ![Robôs que fazem os relatórios sozinhos](imagens/robos-relatorios.png)
 
@@ -18,11 +18,13 @@ Transformo rotina manual em processo automático, usando Python e inteligência 
 
 ![Plano de corte de uma chapa de exemplo](imagens/plano-de-corte.png)
 
-**Cadastro padronizado** de cerca de 400 itens de uma nova ata de fornecimento, seguindo o manual técnico do cliente.
+**Planilha mestre padronizada** de 417 itens de uma nova ata de fornecimento, com cada item conferido no manual técnico do cliente.
+
+**Painel em Power BI** da carteira de ordens de serviço (valor a faturar, fases, prazos e atrasos).
 
 ## Ferramentas
 
-Python · pywinauto · openpyxl · HTML/JavaScript · Command Perfect (ERP) · Excel · Power BI · Kanban · PMBOK · Lean · Claude Code (IA)
+Python · pywinauto (RPA) · openpyxl · HTML/JavaScript · Command Perfect (ERP) · Excel avançado · Power BI · Kanban · PMBOK · Lean · Claude Code (IA)
 
 ## Contato
 
