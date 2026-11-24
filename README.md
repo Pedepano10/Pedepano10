@@ -1,8 +1,8 @@
 # Israel Wallner
 
-**Engenheiro de Produção (UTFPR, formatura em dez/2026) · Analista de Projetos e Processos · Londrina-PR**
+**Engenheiro de Produção (UTFPR, formatura em dez/2026) · Analista de Projetos e Processos · Paraná, Brasil**
 
-Transformo rotina manual em processo automático, usando Python e inteligência artificial no dia a dia de uma indústria de comunicação visual.
+Transformo rotina manual em processo automático, usando Python e inteligência artificial no dia a dia de uma indústria metalúrgica que presta serviços para bancos e órgãos públicos, como Banco do Brasil, Caixa Econômica Federal e SESI.
 
 Há mais de 3 anos faço a ponte entre comercial, projetos e fábrica: acompanho de 30 a 40 ordens de serviço por mês, oriento projetistas e encarregados e proponho melhorias no fluxo (como fichas técnicas padronizadas).
 
