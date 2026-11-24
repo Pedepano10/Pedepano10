@@ -4,9 +4,11 @@
 
 Transformo rotina manual em processo automático, usando Python e inteligência artificial no dia a dia de uma indústria de comunicação visual.
 
+Há mais de 3 anos faço a ponte entre comercial, projetos e fábrica: acompanho de 30 a 40 ordens de serviço por mês, oriento projetistas e encarregados e proponho melhorias no fluxo (como fichas técnicas padronizadas).
+
 ## O que já automatizei
 
-**14 robôs em Python (RPA).** Integrados ao ERP (Command Perfect), geram mais de 10 relatórios do financeiro e da contabilidade em PDF e salvam na rede, sem ninguém clicar (antes eram feitos à mão: de 40 minutos a 1 hora por dia). Também automatizam lançamentos no ERP, como a cópia de dados para as ordens de produção (testada em 111 ordens de uma vez, sem erros) e o fechamento diário do caixa (20 segundos).
+**14 robôs em Python (RPA).** Integrados ao ERP (Command Perfect), geram mais de 10 relatórios do financeiro e da contabilidade em PDF e salvam na rede, sem ninguém clicar (antes eram feitos à mão: 1 hora por dia). Também automatizam a entrada das OS no PCP, de ponta a ponta: da identificação da ordem até o lançamento no ERP com as informações necessárias (testada em 111 ordens de uma vez, sem erros), e o fechamento diário do caixa (20 segundos).
 
 ![Robôs que fazem os relatórios sozinhos](imagens/robos-relatorios.png)
 
